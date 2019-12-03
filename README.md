@@ -34,7 +34,7 @@ Afterwards run the Jupyter Notebook
 
 >`jupyter-notebook`
 
-Open the index.ipynb for song recommendations!
+Open the `index.ipynb` and `stats.ipynb` for song recommendations!
 
 #### IF you want to try a different 10,000 songs 
 Download the subset from the [MillionSongDataset](http://millionsongdataset.com/pages/getting-dataset/)
